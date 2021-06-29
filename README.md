@@ -9,7 +9,7 @@ Haar-cascade-classifier(for frontal face detection) used.
 for this part, instead of lena.png, use a captured image at a distance of 30 Inches(can be changed) from camera and measure the face width at that point.
 similar to the below description:
 
-![image](https://user-images.githubusercontent.com/75139237/123778445-b971ef80-d8ee-11eb-8f91-3ca592074ffd.png)
+![image](https://user-images.githubusercontent.com/75139237/123779777-28037d00-d8f0-11eb-94fc-f344e204eb8f.png)
 
 The output for Part 1 and Part 2 is shown below:
 
